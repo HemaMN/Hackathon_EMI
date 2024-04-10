@@ -1,0 +1,4 @@
+file:Features/LoanTenureCalcPage.feature:4
+file:Features/CarLoanEmi.feature:14:15
+file:Features/EMIcalcPage.feature:4
+file:Features/LoanAmountCalc.feature:4
